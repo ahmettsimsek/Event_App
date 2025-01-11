@@ -1,0 +1,2 @@
+root: C:\Users\ahmts\Desktop\deneme4\nvm
+path: C:\Program Files\nodejs
