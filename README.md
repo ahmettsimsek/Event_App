@@ -1,4 +1,3 @@
 ```
-  React Native
    npm install
 ```
