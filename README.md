@@ -21,3 +21,6 @@ yarn install
 ```
 npx expo start
 ```
+
+![Resim Açıklaması](1.jpg)
+
