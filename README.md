@@ -22,5 +22,6 @@ yarn install
 npx expo start
 ```
 
-![Resim Açıklaması](1.jpg)
+<img src="resim.png" alt="Resim Açıklaması" width="300">
+
 
