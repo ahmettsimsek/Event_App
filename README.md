@@ -22,7 +22,8 @@ yarn install
 npx expo start
 ```
 
-![Image](https://github.com/user-attachments/assets/1d45b637-e1f0-4c7e-896e-48070ec44955)
+<img src="https://github.com/user-attachments/assets/1d45b637-e1f0-4c7e-896e-48070ec44955" width="400" height="300"/>
+
 
 
 
